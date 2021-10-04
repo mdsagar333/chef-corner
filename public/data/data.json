@@ -1,0 +1,112 @@
+[
+  {
+    "id": "81jsq3iU",
+    "name": "Neopolitan-Style Pizza",
+    "price": "$279.61",
+    "started": "25/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "Neapolitan pizza, or pizza Napoletana, is a type of pizza that originated in Naples, Italy. This style of pizza is prepared with simple and fresh ingredients: a basic dough, raw tomatoes, fresh mozzarella cheese, fresh basil, and olive oil. No fancy toppings are allowed!  One of its defining characteristics is that there is often more sauce than cheese. This leaves the middle of the pie wet or soggy and not conducive to being served by the slice. Because of this, Neapolitan pizzas are generally pretty small (about 10 to 12 inches), making them closer to the size of a personal pizza. Featured Video The Absolute Best Ways to Reheat Pizza  Neapolitan pizzas are also cooked at very high temperatures (800 F to 900 F) for no more than 90 seconds.",
+    "courseDuration": 9,
+    "classDuration": 1.7,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "61pyMApD",
+    "name": "Classic Chocolate Desserts",
+    "price": "$114.73",
+    "started": "21/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "Use this delicious chocolate glaze on a wide range of desserts. It's a perfect addition to brownies, cakes, slices of pound cake, plain butter cookies, bars, and doughnuts. Preparing it from scratch allows you to make it thin enough to drizzle over a dessert or thicken it with extra confectioners' sugar for a more substantial coating.  This recipe will make enough chocolate glaze to drizzle over a loaf cake or Bundt cake, and it is easily doubled. If you are looking for a thin chocolate icing or glaze that will become firm, not sticky, this is an excellent choice. As it cools, the icing sets to make a perfect coating.",
+    "courseDuration": 9,
+    "classDuration": 1.2,
+    "image": "https://images.unsplash.com/photo-1615560725129-a1fa6edc3b93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80"
+  },
+  {
+    "id": "78xiMd9Y",
+    "name": "Traditional French Cuisine",
+    "price": "$270.01",
+    "started": "20/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "A demi-glace is a rich, brown sauce based in French cuisine that is either used on its own or as a foundation for other sauces. It's not a gravy or stock, although the latter is used to make demi-glace. There are quite a few steps involved with making demi-glace, and it's best if you emulate the classical French chefs and follow the traditional method in order to achieve its deep flavor and shiny finish.  This means you'll need to plan to do a lot of simmering, reducing, and straining, which may not be difficult, but it is time-consuming. What's great about this process, however, is that you don't need to do all of the steps at once. You can make the stock a few days or a week in advance if you like, or even longer if you freeze it. And preparing the Espagnole sauce beforehand, one of the French mother sauces, will also make this preparation seem less daunting.",
+    "courseDuration": 9,
+    "classDuration": 2.0,
+    "image": "https://images.unsplash.com/photo-1579712267685-42da80f60aa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "64ybRSbP",
+    "name": "Italian Pasta Making",
+    "price": "$223.38",
+    "started": "19/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "Vegetarian pasta e fagioli, or Italian pasta with beans, is a great high-protein pasta recipe for vegetarians and vegans (or Italians!). Pasta fagioli is made from small pasta (use little shells, bow ties, or even macaroni elbows) and white beans cooked in an Italian-seasoned tomato sauce with plenty of garlic, fresh basil, oregano and lots of paprika for extra flavor.   We love this dish because we absolutely love loading up on carbs (yum!) but the white beans, tomato sauce and fresh herbs temper the carbs, adding a protein boost.",
+    "courseDuration": 8,
+    "classDuration": 1.3,
+    "image": "https://images.unsplash.com/photo-1498579150354-977475b7ea0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "67hvYlc6",
+    "name": "Original Ice Cream Class",
+    "price": "$255.38",
+    "started": "25/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "Rich and creamy coffee ice cream is just the afternoon or after dinner pick-me-up treat you need. Plus, it's a no-churn ice cream so it could not be easier to make. It only takes a few ingredients, a hand mixer, and a freezer. No fancy ice cream machine is required, so no need to drag out that bulky equipment.   You do need to make this coffee ice cream well ahead of time, at least 6 hours prior to your event, but you can whip up the mixture in no time and pop it in the freezer the day before. It's so simple to make it the day before you want to serve it and you will have the perfect dessert for your next dinner or gathering. If you freeze it in a resealable container you can enjoy it for a few weeks.",
+    "courseDuration": 6,
+    "classDuration": 1.6,
+    "image": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80"
+  },
+  {
+    "id": "36kuA8vD",
+    "name": "Club Beef Steak Class",
+    "price": "$110.93",
+    "started": "21/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "Skirt steak is a wonderfully flavorful cut of beef. It's also fabulous on the grill. It cooks up easily, quickly, and can be sliced to feed 4 to 6 people—or more if you use the meat in fajitas, sandwiches, or as part of a summer dinner salad. They run anywhere from 12 to 24 ounces, so they easily feed from 2 to 6 people. Have a bigger crowd on hand? Just grill an extra skirt steak or two (or three). Cooking these larger cuts that you can then slice and serve allow for a lot of flexibility of appetite and diet. Hungry meat eaters and those for whom a slice or two is dandy all benefit. Simply use what's below as guidelines and adjust amounts based on the skirt steak(s) and diner(s) at your table.",
+    "courseDuration": 9,
+    "classDuration": 2.7,
+    "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "49zcI6c4",
+    "name": "Bread Baking",
+    "price": "$126.91",
+    "started": "28/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": " French bread is a classic dinner bread. Whether it's served in a basket with butter or olive oil, presented alongside a meal, or used to make garlic bread, stuffed sandwiches, or French bread pizza, a freshly baked loaf of French bread is always welcome. French bread has a long and narrow shape with rounded edges; the most common type of French bread is a baguette, which means By law in France, French bread cannot contain any fat such as butter or oil. This bread is known for its crust, which is made by baking the loaves at 400 F for the first five minutes and then misting the loaves with water. The oven temperature is then dropped to 350 F, and the bread bakes for another 25 minutes. The result is a deliciously crusty and fluffy bread that pairs well with every meal. ",
+    "courseDuration": 7,
+    "classDuration": 2.7,
+    "image": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "29xvl04Z",
+    "name": "Pasta Master",
+    "price": "$128.32",
+    "started": "16/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "This famous Uruguayan pasta sauce is named after Enrico Caruso, a well-known opera singer who visited Montevideo in the early 20th century. Italian food (especially pasta) is very popular in Uruguay, but Uruguayans like to add their own touch to traditional Italian dishes - like the beef broth to this creamy ham and cheese sauce. The result is delicious and goes well with orecchiette or any medium shell pasta.",
+    "courseDuration": 10,
+    "classDuration": 1.3,
+    "image": "https://images.unsplash.com/photo-1447279506476-3faec8071eee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "75jwOFv0",
+    "name": "Mexican Street Food",
+    "price": "$100.00",
+    "started": "21/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": " Caldo de albóndigas (meatball soup) is among Mexico’s most widely known and revered comfort foods. This aromatic and restorative soup is filled with fresh flavors from vegetables, has depth in its flavor thanks to the chicken broth, and is filling and chunky thanks to beautiful beef meatballs, which are hearty and thick thanks to the long-grain rice used in making them. This wholesome meal works for lunch or dinner, or as a mid-morning or mid-afternoon pick-me-up. Serve the soup with tortillas or crunchy tostadas with cream and sprinkled, grated Cotija or other queso fresco. You can also make it in bigger batches to freeze in individual containers and have at hand for a quick and delicious meal. ",
+    "courseDuration": 12,
+    "classDuration": 2.5,
+    "image": "https://images.unsplash.com/photo-1485768071412-bded21c2be08?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": "85qy7EuI",
+    "name": "Desi Combo Fusion",
+    "price": "$215.16",
+    "started": "23/10/2021",
+    "teacher": "Chef Mohammed Sagar",
+    "description": "Born in Kentucky to Sri Lankan parents, Samantha Fore masterfully blends Southern and South Asian ingredients and cooking techniques to create dishes that represent her background. At first glance, this recipe for Poached Shrimp Curry with Coconut Rice Middlins might look like traditional shrimp and grits, but it’s flavored with lemongrass, garlic, ginger, Madras curry powder, and lime. Fore says, “This recipe is a callback to my childhood when my mother would make beautifully scented and spiced curries.” Fore uses creamy rice middlins as the base for this curry, but you can substitute rice or grits if you prefer. Through her Lexington-based traveling pop-up Tuk Tuk Lex, Fore serves up other Southern favorites that nod to her upbringing like fried chicken brined in a buttermilk-curry mixture. Serving delicious food isn’t Fore’s only mission with Tuk Tuk, she aims to expand people’s minds and palates too. “If I can push those borders a bit, then it’s all worth it,” she says. For this reason, and many more, Fore is one of our 2020 Cooks of the Year.",
+    "courseDuration": 5,
+    "classDuration": 1.4,
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  }
+]

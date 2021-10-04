@@ -1,14 +1,22 @@
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
-import { Header } from "./components/Header/Header";
+import { createContext, useState, useEffect } from "react";
+import { Index } from "./components/Index/Index";
 
-function App() {
+export const Context = createContext();
+
+export function App() {
+  const [classes, setClasses] = useState([]);
+
+  // loading the data
+  useEffect(() => {
+    fetch("./data/data.json")
+      .then((res) => res.json())
+      .then((data) => setClasses(data));
+  }, []);
+
   return (
-    <Router>
-      <Header />
-      <Switch></Switch>
-    </Router>
+    <Context.Provider value={classes}>
+      <Index />;
+    </Context.Provider>
   );
 }
-
-export default App;

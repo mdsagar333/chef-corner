@@ -1,0 +1,11 @@
+.logoContainer {
+  font-size: 2.5rem;
+  font-weight: 600;
+  word-spacing: 4px;
+  letter-spacing: -2px;
+  color: #fa8b60;
+}
+
+.logo-text {
+  font-family: "Ephesis";
+}

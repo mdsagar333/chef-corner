@@ -1,0 +1,9 @@
+.link-custom {
+  transition: 0.4s all;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.9) !important;
+}
+
+.link-custom:hover {
+  color: #fa8b60 !important;
+}
