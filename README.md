@@ -1,4 +1,4 @@
-# HEF SA is a educational website which provides online cooking class.
+# CHEF SA is a educational website which provides online cooking class.
 
 ### Here is live website link [Cheff SA](https://clever-lichterman-ae5990.netlify.app/);
 
