@@ -10,6 +10,7 @@ import { About } from "../About/About";
 import { Services } from "../Services/Services";
 import { Contact } from "../Contact/Contact";
 import { NotFound } from "../NotFound/NotFound";
+import { SingleCardDetails } from "../SingleCardDetails/SingleCardDetails";
 
 export const Index = () => {
   return (
@@ -22,13 +23,15 @@ export const Index = () => {
         <Route path="/about">
           <About />
         </Route>
-        <Route path="/services">
+        <Route exact path="/services">
           <Services />
         </Route>
-        <Route path="/contact">
+        <Route path="/services/:id">
+          <SingleCardDetails />
+        </Route>
+        <Route path="/book-class">
           <Contact />
         </Route>
-        <Route path="/services/:id"></Route>
         <Route path="*">
           <NotFound />
         </Route>

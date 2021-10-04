@@ -1,13 +1,15 @@
 import { React, useContext } from "react";
+import { Link } from "react-router-dom";
+
 import { Context } from "../../App";
 import "./Home.css";
 import img from "../../kitchen.jpg";
-import { SingleCardSummary } from "../SingleCard/SingleCard";
+import { SingleCard } from "../SingleCard/SingleCard";
 
 export const Home = () => {
-  const data = useContext(Context);
+  const { allClasses, loading } = useContext(Context);
   // slicing up classes data for showing in home page
-  const popularClasses = data.slice(0, 4);
+  const popularClasses = allClasses.slice(0, 4);
 
   return (
     <div className="home-content-container mt-4 container-fluid">
@@ -21,7 +23,9 @@ export const Home = () => {
           <p className="custom-letter-spacing">
             Cooking class will help you become a professional!
           </p>
-          <button className="btn home-top-btn"> learn more </button>
+          <Link to="/services">
+            <button className="btn home-top-btn"> learn more </button>
+          </Link>
         </div>
       </section>
 
@@ -30,10 +34,17 @@ export const Home = () => {
           Our popular classes
         </h2>
         {/* <span className="custom-underline"></span> */}
-        <div className="row px-4">
+        <div className="row container-fulid g-4">
           {popularClasses.map((popularClass) => (
-            <SingleCardSummary key={popularClass.id} {...popularClass} />
+            <SingleCard key={popularClass.id} {...popularClass} column={3} />
           ))}
+        </div>
+        <div className="d-flex justify-content-center mt-4">
+          <Link to="/services">
+            <button className="btn custom-all-classes-btn text-center">
+              See All Classes
+            </button>
+          </Link>
         </div>
       </section>
     </div>

@@ -2,10 +2,6 @@
   background-color: #fa8b60;
 }
 
-.custom-title {
-  color: #fa8b60;
-}
-
 .custom-title::after {
   content: "";
   background-color: #fa8b60;
@@ -23,6 +19,15 @@
   border: 2px solid #ccc;
 }
 
-.custom-letter-spacing {
-  letter-spacing: 2px;
+.custom-all-classes-btn {
+  background-color: #fa8b60;
+  border: 2px solid transparent;
+  transition: 0.4s all;
+  color: #fff;
+}
+
+.custom-all-classes-btn:hover {
+  background-color: transparent;
+  border: 2px solid #fa8b60;
+  color: #000;
 }

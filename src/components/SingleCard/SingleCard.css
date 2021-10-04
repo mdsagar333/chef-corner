@@ -1,4 +1,4 @@
-.btn-custom {
+/* .btn-custom {
   border: 2px solid #fa8b60;
   font-weight: 600;
   text-transform: capitalize;
@@ -8,8 +8,14 @@
 .btn-custom:hover {
   background-color: #fa8b60;
   color: #fff;
-}
+} */
 
 .custom-color {
   color: #fa8b60;
+}
+
+.custom-single-card-para {
+  letter-spacing: 2px;
+  font-size: 15px;
+  line-height: 1.8;
 }

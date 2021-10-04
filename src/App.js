@@ -5,17 +5,21 @@ import { Index } from "./components/Index/Index";
 export const Context = createContext();
 
 export function App() {
-  const [classes, setClasses] = useState([]);
+  const [allClasses, setAllClasses] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   // loading the data
   useEffect(() => {
-    fetch("./data/data.json")
+    fetch("/data/data.json")
       .then((res) => res.json())
-      .then((data) => setClasses(data));
+      .then((data) => {
+        setAllClasses(data);
+        setLoading(false);
+      });
   }, []);
 
   return (
-    <Context.Provider value={classes}>
+    <Context.Provider value={{ allClasses, loading }}>
       <Index />
     </Context.Provider>
   );

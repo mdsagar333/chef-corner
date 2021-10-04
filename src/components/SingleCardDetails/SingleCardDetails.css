@@ -1,0 +1,13 @@
+.singleCardDetails-description {
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: justify;
+}
+
+.cardDetails-items {
+  border-bottom: 1px solid #ccc;
+}
+
+.custom-color {
+  color: #fa8b60;
+}

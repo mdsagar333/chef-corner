@@ -1,8 +1,33 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #463d34 !important;
 }
 
 ul {
   margin: 0;
   padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+.btn-custom {
+  border: 2px solid #fa8b60;
+  font-weight: 600;
+  text-transform: capitalize;
+  transition: 0.4s all;
+}
+
+.btn-custom:hover {
+  background-color: #fa8b60;
+  color: #fff;
+}
+
+.custom-title {
+  color: #fa8b60;
+}
+
+.custom-letter-spacing {
+  letter-spacing: 2px;
 }
