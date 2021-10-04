@@ -16,7 +16,7 @@ export function App() {
 
   return (
     <Context.Provider value={classes}>
-      <Index />;
+      <Index />
     </Context.Provider>
   );
 }

@@ -1,0 +1,15 @@
+.btn-custom {
+  border: 2px solid #fa8b60;
+  font-weight: 600;
+  text-transform: capitalize;
+  transition: 0.4s all;
+}
+
+.btn-custom:hover {
+  background-color: #fa8b60;
+  color: #fff;
+}
+
+.custom-color {
+  color: #fa8b60;
+}

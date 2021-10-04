@@ -1,0 +1,23 @@
+.footerTop {
+  background-color: #312a24;
+}
+
+.footer-bottom {
+  background-color: #26201b;
+}
+
+.custom-social-link {
+  font-size: 2rem;
+  transition: 0.4s all;
+  color: #fff;
+}
+
+.footer-nav-link {
+  transition: 0.4s all;
+  color: #fff;
+}
+
+.custom-social-link:hover,
+.footer-nav-link:hover {
+  color: #fa8b60;
+}

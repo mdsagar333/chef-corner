@@ -1,0 +1,28 @@
+.home-top-content {
+  background-color: #fa8b60;
+}
+
+.custom-title {
+  color: #fa8b60;
+}
+
+.custom-title::after {
+  content: "";
+  background-color: #fa8b60;
+  height: 3px;
+  position: absolute;
+  width: 100px;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.home-top-btn {
+  text-transform: capitalize;
+  color: #fff;
+  border: 2px solid #ccc;
+}
+
+.custom-letter-spacing {
+  letter-spacing: 2px;
+}
