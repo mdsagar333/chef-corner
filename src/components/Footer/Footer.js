@@ -8,7 +8,7 @@ import { Logo } from "../Logo/Logo";
 export const Footer = () => {
   return (
     <footer className="footer-container">
-      <div className="footerTop d-flex justify-content-between p-4 mt-5 align-items-center">
+      <div className="footerTop d-flex flex-column align-items-start flex-md-row justify-content-between p-4 mt-5 ">
         <Logo />
         <ul className="footer-linkWrapper nav flex-column">
           {navLinks.map((link, index) => (
@@ -19,7 +19,7 @@ export const Footer = () => {
             </li>
           ))}
         </ul>
-        <ul className="socialLinksContainer d-flex">
+        <ul className="socialLinksContainer d-flex my-3">
           {socialLinks.map((link, index) => (
             <li key={index}>
               <NavLink to={link.href} className="custom-social-link px-1">

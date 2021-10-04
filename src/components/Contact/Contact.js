@@ -7,7 +7,7 @@ export const Contact = () => {
 
   return (
     <div className="container row py-5">
-      <div className="col-md-6">
+      <div className="col-md-6 mb-4">
         <img src={Kitchen} alt="kitchen" className="img-fluid mt-3" />
       </div>
       <form className="col-md-6">
@@ -65,7 +65,7 @@ export const Contact = () => {
             </select>
           </div>
         </div>
-        <div className="form-group">
+        <div className="form-group mb-4">
           <div className="form-check">
             <input
               className="form-check-input"

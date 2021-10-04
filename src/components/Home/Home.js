@@ -14,10 +14,10 @@ export const Home = () => {
   return (
     <div className="home-content-container mt-4 container-fluid">
       <section className="home-top d-flex mb-5">
-        <div className="home-top_img-container col-md-6">
+        <div className="home-top_img-container col-md-6 d-none d-md-block">
           <img src={img} alt="kitchen" className="img-fluid" />
         </div>
-        <div className="home-top-content col-md-6 col-sm-12 d-flex flex-column justify-content-center align-items-center text-white p-2">
+        <div className="home-top-content col-md-6 col-sm-12 d-flex flex-column justify-content-center align-items-center text-white px-3 py-5">
           <h1 className="fw-bold">Cooking Is An Art</h1>
           <h5>Do you love cooking? Or do you want to learn how to cook?</h5>
           <p className="custom-letter-spacing">
